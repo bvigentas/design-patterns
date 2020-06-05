@@ -1,4 +1,5 @@
 # Design Patterns
+Repository with the main design principles in the OOP world.
 
 ## SOLID Design Principles
 - **S**ingle Responsability Principle
