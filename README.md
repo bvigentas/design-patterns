@@ -1,6 +1,11 @@
 # Design Patterns
 
 ## SOLID Design Principles
+- **S**ingle Responsability Principle
+- **O**pen-Closed Principle
+- **L**iskov Substitution Principle
+- **I**nterface Segregation Principle
+- **D**ependency Inversion Principle
 
 ## Design Patterns
 
